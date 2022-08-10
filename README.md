@@ -1,4 +1,4 @@
-# product-classification
+# Classificação de Produtos
 
 A aplicação desenvolvida tem como objetivo a criação de um pipeline de treinamento para um modelo de categorização de produtos e o desenvolvimento de uma API para servir o modelo treinado. Esse repositório é estruturado com os seguintes diretórios:
 
