@@ -2,7 +2,7 @@
 
 A aplicação desenvolvida tem como objetivo a criação de um pipeline de treinamento para um modelo de categorização de produtos e o desenvolvimento de uma API para servir o modelo treinado. Esse repositório é estruturado com os seguintes diretórios:
 
-1. **Data**: Local de armazenamento do dataset e do modelo treinado pelo pipeline de treinamento e validação do modelo.
+1. **Data**: Local de armazenamento do dataset e do modelo treinado pelo pipeline.
 2. **server**: Diretório onde contém a aplicação de API RESTfull app.py. Além disso, contém a aplicação de teste do endpoint test_app.py. Também contém os arquivos criação do ambiente de docker e docker-compose.
 3. **training**:  Diretório que contém o ambiente para executação do jupyter através do docker e docker-compose. Também contém o notebook jupyter para execução do pipeline para treinamento do modelo no arquivo train_product_classification.ipynb.
 
